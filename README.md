@@ -1,6 +1,7 @@
 # Expresslrs_3.2_HT-CT62_sx1262
 
 Using Elrs configurator choose local folder with downloaded erls and choose DIY 900 MHz device group and device  DIY 900 RX PWMP
+change needed parameters.
 
 ![image](https://github.com/Sekilsgs2/Expresslrs_3.2_HT-CT62_sx1262/assets/5908468/1479f8b6-9ce8-4ae0-a430-eb34c6f3d2af)
 
