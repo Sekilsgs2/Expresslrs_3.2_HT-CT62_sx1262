@@ -14,4 +14,6 @@ HT-CT62 connection diagramm for first flashing (use usb to uart converter 3.3v) 
 After flashing - disconnect gnd from gpio 9 - and can using module as erls rx. 200ghz and 100hz 8ch - not working with sx127x modules because not compatible at SF6.
 Working 100hz, 50hz, 25hz hybrid switches...
 
+After first flashing - can using wifi for next flashing methods..
+
 
